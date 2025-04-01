@@ -18,7 +18,7 @@ Clone the repository:
    
 Navigate to the project directory:
   ```sh
-  cd vue-weather-app
+  cd sky-sense
   ```
 
 Install dependencies:
