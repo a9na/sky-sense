@@ -36,7 +36,7 @@ Start the development server:
   npm run dev
   ```
 
-Technologies Used 🛠️
+## Technologies Used 🛠️
 
 Vue.js 3
 
